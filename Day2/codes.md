@@ -14,7 +14,7 @@ void printList(Node *head) {
 }
 ```
 **Screenshot:**  
-![alt text](image.png)  
+![alt text](./images/image.png)  
 
 ---
 
@@ -42,7 +42,7 @@ ListNode* deleteDuplicates(ListNode* head) {
 }
 ```
 **Screenshot:**  
-![alt text](image-1.png)  
+![alt text](./images/image-1.png)  
 
 ---
 
@@ -72,7 +72,7 @@ ListNode* reverseList(ListNode* head) {
 }
 ```
 **Screenshot:**  
-![alt text](image-2.png) 
+![alt text](./images/image-2.png) 
 
 ---
 
@@ -107,7 +107,7 @@ ListNode* deleteMiddle(ListNode* head) {
 }
 ```
 **Screenshot:**  
-![alt text](image-3.png)  
+![alt text](./images/image-3.png)  
 
 ---
 
@@ -134,7 +134,7 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
 }
 ```
 **Screenshot:**  
-![alt text](image-4.png)  
+![alt text](./images/image-4.png)  
 
 ---
 
@@ -160,7 +160,7 @@ ListNode* deleteDuplicates(ListNode* head) {
 }
 ```
 **Screenshot:**  
-![alt text](image-5.png)  
+![alt text](./images/image-5.png)  
 
 ---
 
@@ -183,7 +183,7 @@ bool hasCycle(ListNode* head) {
 }
 ```
 **Screenshot:**  
-![alt text](image-6.png) 
+![alt text](./images/image-6.png) 
 
 ---
 
@@ -207,7 +207,7 @@ ListNode* reverseBetween(ListNode* head, int left, int right) {
 }
 ```
 **Screenshot:**  
-![alt text](image-7.png)
+![alt text](./images/image-7.png)
 
 ---
 
@@ -237,7 +237,7 @@ ListNode* rotateRight(ListNode* head, int k) {
 }
 ```
 **Screenshot:**  
-![alt text](image-8.png) 
+![alt text](./images/image-8.png) 
 
 ---
 
@@ -272,7 +272,7 @@ ListNode* mergeKLists(vector<ListNode*>& lists) {
 }
 ```
 **Screenshot:**  
-![alt text](image-9.png) 
+![alt text](./images/image-9.png) 
 
 ---
 
@@ -311,6 +311,6 @@ ListNode* sortList(ListNode* head) {
 }
 ```
 **Screenshot:**  
-![alt text](image-10.png) 
+![alt text](./images/image-10.png) 
 ```
 ```
